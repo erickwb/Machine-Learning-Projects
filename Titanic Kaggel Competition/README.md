@@ -1,1 +1,1 @@
-script da competiçao do titanic do kaggle (em desenvolvimento)
+kaggle titanic competition script (in development)
