@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-##Some projects in python notebooks
+## Machine learning and data science projects in python
